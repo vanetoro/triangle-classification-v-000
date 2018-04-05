@@ -19,7 +19,9 @@ class Triangle
         else
           :isosceles
       end
-  end  
+  end
+  
+  
 end
 
 
